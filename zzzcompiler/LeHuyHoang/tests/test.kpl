@@ -1,0 +1,19 @@
+Program Exercise2;
+
+Type I = Integer;
+
+Var a: I;
+    b: I;
+
+Function F(n: Integer; m: Integer) : Integer;
+  Begin
+    F := n + m;
+  End;
+
+Begin
+
+a := Readi;
+b := Readi; 
+Call WriteI( F(a,b) );
+
+End.

@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "random": "c",
+        "*.tcc": "c",
+        "cmath": "c",
+        "tuple": "c",
+        "typeinfo": "c"
+    }
+}

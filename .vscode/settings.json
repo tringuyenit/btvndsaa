@@ -72,9 +72,12 @@
         "typeindex": "cpp",
         "typeinfo": "cpp",
         "valarray": "cpp",
-        "parser.h": "c"
+        "parser.h": "c",
+        "token.h": "c",
+        "reader.h": "c",
+        "charcode.h": "c",
+        "scanner.h": "c"
     },
     "code-runner.runInTerminal": true,
-    "workbench.settings.editor": "json",
     "workbench.settings.useSplitJSON": true
 }
